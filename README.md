@@ -6,3 +6,4 @@
 - Desmarcar Sugestoes Windows
 - INTEL DRIVER
 - NVIDIA DRIVER
+- Conferir Hertz Monitor
