@@ -4,3 +4,5 @@
 - Disable Controle Inteligente de Aplicativo / Smart App Control
 - Desativar Proxy
 - Desmarcar Sugestoes Windows
+- INTEL DRIVER
+- NVIDIA DRIVER
