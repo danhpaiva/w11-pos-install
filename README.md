@@ -7,3 +7,8 @@
 - INTEL DRIVER
 - NVIDIA DRIVER
 - Conferir Hertz Monitor
+
+# Acer Nitro V
+
+Boot Device not found <br>
+Basta desabilitar o VMD Controller na Bios.
