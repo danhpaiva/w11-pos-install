@@ -8,6 +8,17 @@
 - NVIDIA DRIVER
 - Conferir Hertz Monitor
 
+# Gpedit
+
+Iniciar -> Gpedit
+Configuracao do Computador
+Modelos Administrativos
+Componentes do Windows
+Windows Update
+Gerenciar a Experiencia do Usuario Final
+Configurar Atualizacoes Automaticas
+Desabilitar
+
 # Acer Nitro V
 
 Boot Device not found <br>
