@@ -1,5 +1,6 @@
 # W11 24h2
 
+~~~
 - Disable Defender
 - Disable Controle Inteligente de Aplicativo / Smart App Control
 - Desativar Proxy
@@ -7,9 +8,11 @@
 - INTEL DRIVER
 - NVIDIA DRIVER
 - Conferir Hertz Monitor
+~~~
 
 # Gpedit
 
+~~~
 Iniciar -> Gpedit
 Configuracao do Computador
 Modelos Administrativos
@@ -18,8 +21,11 @@ Windows Update
 Gerenciar a Experiencia do Usuario Final
 Configurar Atualizacoes Automaticas
 Desabilitar
+~~~
 
 # Acer Nitro V
 
+~~~
 Boot Device not found <br>
 Basta desabilitar o VMD Controller na Bios.
+~~~
